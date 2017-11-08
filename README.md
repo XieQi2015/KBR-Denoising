@@ -94,7 +94,7 @@ URL of the toolboxes and functions:
     [9]  tensor_dl          http://gr.xjtu.edu.cn/web/dymeng/3
     [10] t-SVD              http://www.ece.tufts.edu/~shuchin/software.html
 
-Acknowledgements£º
+Acknowledgements:
 
     We would liked to thank Epitropou Georgios (a member of Electronics Laboratory, Optoelectronics Group, Dept. of 
     Electronics & Comp. Engineering, Technical University of Crete University Campus, Kounoupidiana) for he help us
